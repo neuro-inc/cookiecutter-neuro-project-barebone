@@ -5,7 +5,7 @@ git+https://github.com/andriihomiak/pytest-cookies.git@fix/quotes_in_user_config
 isort==5.13.2
 mypy==1.9.0
 pipx==1.4.3
-pre-commit==3.6.2
+pre-commit==3.7.0
 PyGithub==2.3.0  # Bump also {{cookiecutter.project_dir}}/.github/workflows/update-neuro-flow-actions.yml:15
 pytest==8.1.0
 pytest-asyncio==0.23.6
