@@ -1,6 +1,6 @@
 -r base.txt
 git+https://github.com/andriihomiak/pytest-cookies.git@fix/quotes_in_user_config # pytest-cookies==0.6.1, see https://github.com/neuro-inc/cookiecutter-neuro-project/pull/606
-mypy==1.11.2
+mypy==1.12.0
 pipx==1.7.1
 pre-commit==3.8.0
 pytest==8.3.3
